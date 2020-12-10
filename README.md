@@ -1,5 +1,5 @@
 ## Hi - I'm Kalyssa.
- I'm a fullstack developer interested in everything from building responsive, scalable systems to mobile development and machine learning.
+ I'm a fullstack developer interested in building responsive, scalable systems (bonus points if they involve machine learning).
 
 💻 Technologies & Tools: Python (Flask, TensorFlow), JavaScript (React, Express), Git, AWS, MongoDB, PostgreSQL
 
