@@ -1,7 +1,7 @@
 ## Hi - I'm Kalyssa.
- I'm a fullstack developer interested in building responsive, scalable systems (bonus points if they involve machine learning).
+ I'm a fullstack developer interested in building responsive, scalable systems (💡 bonus points if machine learning is involved).
 
-💻 Technologies & Tools: Python (Flask, TensorFlow), JavaScript (React, Express), Git, AWS, MongoDB, PostgreSQL
+👩🏾‍💻 Technologies & Tools: Python (Flask, TensorFlow), JavaScript (React, Express), Git, AWS, MongoDB, PostgreSQL
 
 - 🔭 I’m currently working on an Amazon review sentiment analysis application
 - 📖 I’m currently reading When - The Science of Perfect Timing by Daniel Pink
